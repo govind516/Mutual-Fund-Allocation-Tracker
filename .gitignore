@@ -1,0 +1,13 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# Data and output folders
+data/output_charts/
+data/portfolio_data/
